@@ -2,10 +2,6 @@
 
 A comprehensive web-based quiz management system built with Flask and SQLAlchemy. This application allows professors to create and manage quizzes, while students can take these quizzes and view their results.
 
-## 🚀 Live Demo
-
-You can access a live demo of this application at: [shloksitare.pythonanywhere.com](http://shloksitare.pythonanywhere.com)
-
 ## Features
 
 ### For Professors
